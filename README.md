@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning at Academia-x
-- :dart: Here i put my skills as: HTML || CSS
+- 🌱 Student at Academia-x
+- :dart: Currently I'm learning how to use GitHub 
+         to upload my code projects...
 - 📫 How to reach me: pwilmanp@gmail.com
