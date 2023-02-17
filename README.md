@@ -5,4 +5,3 @@
          to upload my code projects...
 - 💠 Current skills:
          HTML || CSS
-- 📫 How to reach me: pwilmanp@gmail.com
