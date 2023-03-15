@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- :dart: Nowadays I'm learning how to use GitHub 
-         to upload my code projects...
+- :dart: Nowadays I'm learning JavaScript
 - 💠 Current skills:
          HTML | CSS | GIT
