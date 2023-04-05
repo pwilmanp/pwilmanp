@@ -2,4 +2,4 @@
 
 - :dart: Nowadays I'm learning JavaScript
 - 💠 Current skills:
-         HTML | CSS | GIT
+         HTML | CSS | GIT | VIM | JAVA 
