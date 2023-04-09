@@ -1,5 +1,5 @@
 ### Hi there 
 
--  Nowadays I'm learning JavaScript
+-  Nowadays learning JavaScript
 -  Current skills:
          HTML | CSS | GIT | 
