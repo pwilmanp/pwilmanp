@@ -1,5 +1,5 @@
 ### Hi there 
 
--  Nowadays learning JavaScript
+-  Nowadays learning JavaScript and Phyton
 -  Current skills:
          HTML | CSS | GIT | 
