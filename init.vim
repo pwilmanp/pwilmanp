@@ -10,8 +10,6 @@
 :set showmatch
 :set laststatus=2
 
-
-
 "--------------------------------------"
 call plug#begin()
 "STATUS BAR"
@@ -35,11 +33,7 @@ Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 "-----------------------------------"
 
-"THEME"
-colorscheme gruvbox
-let g:gruvbox_contrast_dark = "hard"
-
-"SHORTCUTS"
+"MAPLEADER"
 let mapleader=" "
 
 "PLUGS"
@@ -59,7 +53,11 @@ nnoremap  <Leader>kk :TmuxNavigateUp<CR>
 nnoremap  <Leader>ll :TmuxNavigateRight<CR>
 
 "SPLIT RESIZE"
-nnoremap <Leader>> 10<C-w>> 
-nnoremap <Leader>< 10<C-w><
+nnoremap <Leader>> 5<C-w>> 
+nnoremap <Leader>< 5<C-w><
 nnoremap <Leader>+ :5winc +<CR>
 nnoremap <Leader>- :5winc -<CR>
+
+"THEME"
+colorscheme gruvbox
+let g:gruvbox_contrast_dark = "hard"
