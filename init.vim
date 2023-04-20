@@ -61,4 +61,5 @@ nnoremap  <Leader>ll :TmuxNavigateRight<CR>
 "SPLIT RESIZE"
 nnoremap <Leader>> 10<C-w>> 
 nnoremap <Leader>< 10<C-w><
-
+nnoremap <Leader>+ :5winc +<CR>
+nnoremap <Leader>- :5winc -<CR>
